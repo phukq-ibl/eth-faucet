@@ -1,0 +1,16 @@
+{
+  "name": "faucet",
+  "description": "",
+  "main": "index.js",
+  "authors": [],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "directory": "public/js/vendor"
+}
